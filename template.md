@@ -22,23 +22,23 @@
 
 ----
 
+
+
 <div>
 	<style>
 		.main-title { font-size: 24px; font-weight: bold; } .info-section { display:
 		flex; align-items: flex-start; margin-bottom: 20px; } .icon { width: 40px;
 		height: 40px; background-color: #333; border-radius: 8px; display: flex;
 		justify-content: center; align-items: center; margin-right: 12px; flex-shrink:
-		0; } .icon-content { font-size: 20px; color: #FFFFFF; width: 40px; height: 40px; } .info-text { flex:
+		0; } .icon-content { font-size: 20px; color: #FFFFFF; } .info-text { flex:
 		1; } .info-title { font-size: 16px; font-weight: bold; margin-bottom: 4px;
 		} .info-desc { font-size: 14px; line-height: 1.4; }
 	</style>
 	<div class="info-section">
 		<div class="icon">
-		
-			<img
-			  class="icon-content"
-			  src="/shared-assets/images/examples/grapefruit-slice.jpg"
-			  alt="葡萄柚切片置于其他切片堆上" ></img>
+			<span class="icon-content">
+				��
+			</span>
 		</div>
 		<div class="info-text">
 			<div class="info-title">
@@ -50,13 +50,11 @@
 			</div>
 		</div>
 	</div>
-
 	<div class="info-section">
 		<div class="icon">
 			<span class="icon-content">
-				��
+				😈
 			</span>
-
 		</div>
 		<div class="info-text">
 			<div class="info-title">
@@ -67,14 +65,9 @@
 			</div>
 		</div>
 	</div>
-
 	<div class="info-section">
-		<div class="icon">
-			<span class="icon-content">
-				ℰ
-			</span>
-
-		</div>
+		<img src="https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0x717dae2baf7656be9a9b01dee31d571a9d4c9579/logo.png">
+		</img>
 		<div class="info-text">
 			<div class="info-title">
 				Already using Flow Wallet?
@@ -85,13 +78,11 @@
 			</div>
 		</div>
 	</div>
-
 	<div class="info-section">
 		<div class="icon">
 			<span class="icon-content">
 				��
 			</span>
-
 		</div>
 		<div class="info-text">
 			<div class="info-title">
@@ -104,6 +95,7 @@
 		</div>
 	</div>
 </div>
+
 
 
 ----
