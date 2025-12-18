@@ -34,10 +34,11 @@
 	</style>
 	<div class="info-section">
 		<div class="icon">
-			<span class="icon-content">
-				��
-			</span>
-			<!-- 钱包 emoji 替代图标 -->
+		
+			<img
+			  class="icon-content"
+			  src="/shared-assets/images/examples/grapefruit-slice.jpg"
+			  alt="葡萄柚切片置于其他切片堆上" />
 		</div>
 		<div class="info-text">
 			<div class="info-title">
@@ -49,13 +50,13 @@
 			</div>
 		</div>
 	</div>
-	<!-- 信息区块2：Flow 原生应用 -->
+
 	<div class="info-section">
 		<div class="icon">
 			<span class="icon-content">
 				��
 			</span>
-			<!-- 商店 emoji 替代图标 -->
+
 		</div>
 		<div class="info-text">
 			<div class="info-title">
@@ -66,13 +67,13 @@
 			</div>
 		</div>
 	</div>
-	<!-- 信息区块3：EVM 账户说明 -->
+
 	<div class="info-section">
 		<div class="icon">
 			<span class="icon-content">
 				ℰ
 			</span>
-			<!-- 自定义字符替代 EVM 图标（也可用 SVG/图片） -->
+
 		</div>
 		<div class="info-text">
 			<div class="info-title">
@@ -84,13 +85,13 @@
 			</div>
 		</div>
 	</div>
-	<!-- 信息区块4：价值说明 -->
+
 	<div class="info-section">
 		<div class="icon">
 			<span class="icon-content">
 				��
 			</span>
-			<!-- 图表 emoji 替代图标 -->
+
 		</div>
 		<div class="info-text">
 			<div class="info-title">
