@@ -66,7 +66,7 @@
 		</div>
 	</div>
 	<div class="info-section">
-		<img src="https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0x717dae2baf7656be9a9b01dee31d571a9d4c9579/logo.png">
+		<img class="icon" src="https://raw.githubusercontent.com/onflow/assets/refs/heads/main/tokens/registry/0x717dae2baf7656be9a9b01dee31d571a9d4c9579/logo.png">
 		</img>
 		<div class="info-text">
 			<div class="info-title">
