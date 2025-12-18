@@ -21,58 +21,10 @@
 
 
 ----
+<div>
 
-<style>
-    /* 全局重置与基础样式 */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    }
-
-    body {
-      /* 背景遮罩层（半透明黑） */
-      background-color: rgba(0, 0, 0, 0.5);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
-
-    /* 弹窗容器 */
-    .modal {
-      background-color: #1E1E1E; /* 深灰背景 */
-      width: 90%;
-      max-width: 360px;
-      border-radius: 16px;
-      padding: 24px;
-      color: #FFFFFF;
-      position: relative; /* 用于关闭按钮绝对定位 */
-    }
-
-    /* 关闭按钮 */
-    .close-btn {
-      position: absolute;
-      top: 12px;
-      right: 12px;
-      font-size: 20px;
-      cursor: pointer;
-      background: none;
-      border: none;
-      color: #FFFFFF;
-    }
-
-    /* 头部区域（版本号 + 大标题） */
-    .header {
-      text-align: center;
-      margin-bottom: 24px;
-    }
-    .version {
-      font-size: 16px;
-      color: #4CAF50; /* 亮绿色，贴近原「App update V3.1.0」色调 */
-      margin-bottom: 8px;
-    }
+   <style>
+    
     .main-title {
       font-size: 24px;
       font-weight: bold;
@@ -196,6 +148,7 @@
     </div> 
    </div> 
   </div> 
+          </div>
 
    
 
