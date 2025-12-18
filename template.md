@@ -137,66 +137,68 @@
   </style>
 
 
-<div class="modal">
-    <!-- 关闭按钮 -->
-    <button class="close-btn">×</button>
+  <div class="info-section"> 
+   <div class="icon"> 
+    <span class="icon-content">��</span> 
+    <!-- 钱包 emoji 替代图标 --> 
+   </div> 
+   <div class="info-text"> 
+    <div class="info-title">
+      What's new 
+    </div> 
+    <div class="info-desc">
+      If you already use an Ethereum wallet like MetaMask or Rainbow, you can import those same accounts to access everything on Flow. 
+    </div> 
+   </div> 
+  </div> 
+  <!-- 信息区块2：Flow 原生应用 --> 
+  <div class="info-section"> 
+   <div class="icon"> 
+    <span class="icon-content">��</span> 
+    <!-- 商店 emoji 替代图标 --> 
+   </div> 
+   <div class="info-text"> 
+    <div class="info-title">
+      Flow-native apps for your accounts 
+    </div> 
+    <div class="info-desc">
+      Get instant access to DeFi, marketplaces, and experiences on Flow. 
+    </div> 
+   </div> 
+  </div> 
+  <!-- 信息区块3：EVM 账户说明 --> 
+  <div class="info-section"> 
+   <div class="icon"> 
+    <span class="icon-content">ℰ</span> 
+    <!-- 自定义字符替代 EVM 图标（也可用 SVG/图片） --> 
+   </div> 
+   <div class="info-text"> 
+    <div class="info-title">
+      Already using Flow Wallet? 
+    </div> 
+    <div class="info-desc">
+      You’ll see a new &quot;EVM&quot; account alongside your Cadence accounts and your now legacy &quot;EVM Flow&quot; account. 
+    </div> 
+   </div> 
+  </div> 
+  <!-- 信息区块4：价值说明 --> 
+  <div class="info-section"> 
+   <div class="icon"> 
+    <span class="icon-content">��</span> 
+    <!-- 图表 emoji 替代图标 --> 
+   </div> 
+   <div class="info-text"> 
+    <div class="info-title">
+      Why this matters 
+    </div> 
+    <div class="info-desc">
+      Your new EVM account is super-powered by Flow, unlocking gasless transactions, MEV-resilience and more. 
+    </div> 
+   </div> 
+  </div> 
 
-    <!-- 头部：版本号 + 大标题 -->
-    <div class="header">
-      <div class="version">App update V3.1.0</div>
-      <h1 class="main-title">What's New</h1>
-    </div>
+   
 
-    <!-- 信息区块1：钱包导入 -->
-    <div class="info-section">
-      <div class="icon">
-        <span class="icon-content">🪙</span> <!-- 钱包 emoji 替代图标 -->
-      </div>
-      <div class="info-text">
-        <div class="info-title">What's new</div>
-        <div class="info-desc">If you already use an Ethereum wallet like MetaMask or Rainbow, you can import those same accounts to access everything on Flow.</div>
-      </div>
-    </div>
-
-    <!-- 信息区块2：Flow 原生应用 -->
-    <div class="info-section">
-      <div class="icon">
-        <span class="icon-content">🏪</span> <!-- 商店 emoji 替代图标 -->
-      </div>
-      <div class="info-text">
-        <div class="info-title">Flow-native apps for your accounts</div>
-        <div class="info-desc">Get instant access to DeFi, marketplaces, and experiences on Flow.</div>
-      </div>
-    </div>
-
-    <!-- 信息区块3：EVM 账户说明 -->
-    <div class="info-section">
-      <div class="icon">
-        <span class="icon-content">ℰ</span> <!-- 自定义字符替代 EVM 图标（也可用 SVG/图片） -->
-      </div>
-      <div class="info-text">
-        <div class="info-title">Already using Flow Wallet?</div>
-        <div class="info-desc">You’ll see a new "EVM" account alongside your Cadence accounts and your now legacy "EVM Flow" account.</div>
-      </div>
-    </div>
-
-    <!-- 信息区块4：价值说明 -->
-    <div class="info-section">
-      <div class="icon">
-        <span class="icon-content">📊</span> <!-- 图表 emoji 替代图标 -->
-      </div>
-      <div class="info-text">
-        <div class="info-title">Why this matters</div>
-        <div class="info-desc">Your new EVM account is super-powered by Flow, unlocking gasless transactions, MEV-resilience and more.</div>
-      </div>
-    </div>
-
-    <!-- 阅读更多链接 -->
-    <a href="#" class="read-more">Read more</a>
-
-    <!-- 确认按钮 -->
-    <button class="confirm-btn">Got it</button>
-  </div>
 
 
 ----
