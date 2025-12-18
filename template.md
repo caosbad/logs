@@ -28,7 +28,7 @@
 		flex; align-items: flex-start; margin-bottom: 20px; } .icon { width: 40px;
 		height: 40px; background-color: #333; border-radius: 8px; display: flex;
 		justify-content: center; align-items: center; margin-right: 12px; flex-shrink:
-		0; } .icon-content { font-size: 20px; color: #FFFFFF; } .info-text { flex:
+		0; } .icon-content { font-size: 20px; color: #FFFFFF; width: 40px; height: 40px; } .info-text { flex:
 		1; } .info-title { font-size: 16px; font-weight: bold; margin-bottom: 4px;
 		} .info-desc { font-size: 14px; line-height: 1.4; }
 	</style>
@@ -38,7 +38,7 @@
 			<img
 			  class="icon-content"
 			  src="/shared-assets/images/examples/grapefruit-slice.jpg"
-			  alt="葡萄柚切片置于其他切片堆上" />
+			  alt="葡萄柚切片置于其他切片堆上" ></img>
 		</div>
 		<div class="info-text">
 			<div class="info-title">
